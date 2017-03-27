@@ -1,0 +1,17 @@
+
+folder: jerseyluntest contain the anwser for problem 3.( include the code and the test case using testng)
+
+some example for 
+
+get the all luns info
+
+http://localhost:8080/jerseyluntest/restapi/LunService/list
+
+get the info for one lun
+
+http://localhost:8080/jerseyluntest/restapi/LunService/GetLunInfo?id=6700
+
+mvn test
+
+test the PUT/DELETE restapi
+
