@@ -1,5 +1,7 @@
 
-folder: jerseyluntest contain the anwser for problem 3.( include the code and the test case using testng)
+folder: jerseyluntest contain the anwser for problem 3.( include the code and the test case using testng), you can find the packaged war under jerseyluntest/target/jerseyluntest.war
+code path jerseyluntest/src
+  
 
 some example for 
 
